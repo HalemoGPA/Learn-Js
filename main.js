@@ -1,4 +1,2 @@
-window.onload=function(){
-    document.querySelector("h1").style.color = "red";
-
-};
+var myname = "AbdelHaleem";
+console.log(`my name ${myname}`);
