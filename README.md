@@ -1,6 +1,6 @@
 
 
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv" >
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv" target="_blank" >
 <div align="center">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" width="230" alt="Javascript"></div><div align="center"><br><b>Js course</b></div></a><br>
 
@@ -35,5 +35,5 @@ Elzero Web School Js Course Assignments Solutions 💻
 
 
 <br><p align="center">
-  <a href="https://www.buymeacoffee.com/HalemoGPA"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 </p>
