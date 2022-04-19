@@ -1,6 +1,8 @@
-let d = "-100";
-let e = "20";
-let f = 30;
-let g = true;
-console.log(-d * 20);
-console.log(-d + 2 * e + f + 3 * g);
+let a = 21;
+let b = 20;
+let d = a;
+let dd = a;
+let e = b;
+let ee = b;
+let c = d + "" + e;
+console.log(`_${d}_${(c + "_").repeat(++dd % --ee)} ${++e}_`);
