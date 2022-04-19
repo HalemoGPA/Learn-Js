@@ -38,8 +38,12 @@ Elzero Web School Js Course Assignments Solutions 💻
 
 <br><p align="center">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <a href="https://www.buymeacoffee.com/HalemoGPA"><img src="https://img.buymeacoffee.com/api/?url=aHR0cHM6Ly9jZG4uYnV5bWVhY29mZmVlLmNvbS91cGxvYWRzL3Byb2ZpbGVfcGljdHVyZXMvMjAyMi8wNC9ES1hJOHA2SjI5VU9wekFQLnBuZ0AzMDB3XzBlLndlYnA=&creator=Halemo+GPA&design_code=1&design_color=%23ff813f&slug=HalemoGPA" alt="HalemoGPA buy me a coffee" width="230" style="border-radius:30px" height="100"></a>
 =======
   <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
 >>>>>>> 681283abb954edc200fe62765e592314bdea0671
+=======
+  <a href="https://www.buymeacoffee.com/HalemoGPA" target="_blank" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+>>>>>>> f6ccb78c655f1f49f243c080f8fd8447922a24cf
 </p>
