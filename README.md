@@ -30,3 +30,10 @@ Elzero Web School Js Course Assignments Solutions 💻
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment1)       
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment2)      
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment3)         
+
+
+
+
+<br><p align="center">
+  <a href="https://www.buymeacoffee.com/HalemoGPA"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
+</p>
