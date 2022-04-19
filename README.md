@@ -9,9 +9,9 @@
 
 
 
-# Learn Js
-Elzero Web School Js Course Assignments Solutions
-## Week 1
+# Learn Js 🔥
+Elzero Web School Js Course Assignments Solutions 💻
+## Week 1️⃣
 #### [codes for week 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1)  
   [     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%201)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%202)    
@@ -19,9 +19,9 @@ Elzero Web School Js Course Assignments Solutions
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%204)    
 [     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/Assignment%205)    
 [     • Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/Assignment%206)     
-## Week 2
-#### [codes for week 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2)  
-[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment1)    
+## Week 2️⃣
+#### [codes for week 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2)
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment1)    
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment2)    
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment3)    
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment4)    
