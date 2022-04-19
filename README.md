@@ -24,5 +24,9 @@ Elzero Web School Js Course Assignments Solutions 💻
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment1)       
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment2)      
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment3)      
-[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment4)    
-  
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week2/Assignment4)     
+## Week 3️⃣
+#### [codes for week 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment2)      
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week3/Assignment3)         
