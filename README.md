@@ -50,6 +50,31 @@ Elzero Web School Js Course Assignments Solutions 💻
      
 
 
+## Week 6️⃣
+#### [codes for week 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6/Assignment2)      
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week6/Assignment3)      
+
+
+## Week 7️⃣
+#### [codes for week 7](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment2)      
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment3)   
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week7/Assignment4)      
+
+
+## Week 8️⃣  
+#### [codes for week 8](https://github.com/HalemoGPA/Learn-Js/tree/main/Week8/)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week8/Assignment1)  
+
+
+
+
+
+
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
