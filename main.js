@@ -1,21 +1,50 @@
-let a = "Elzero Web School";
-// output zero using slice and charAt
-console.log(a.slice(a.indexOf(a.charAt(2)), a.indexOf(a.charAt(2)) + 4));
-//output HHHHHHHHH
-console.log(
-  a
-    .charAt(a.length - 4)
-    .toUpperCase()
-    .repeat(8)
-);
-//return array
-console.log(a.split(" ", 1));
-// use substr and template literals to output Elzero School
-console.log(`${a.substr(0, 6)} ${a.substr(-6, 6)}`);
-//dynamic output like elzero Web School
-console.log(
-  a.charAt(0).toLowerCase() +
-    a.slice(1, -1).toUpperCase() +
-    a.charAt(-1).toLowerCase() +
-    a[a.length - 1].toLowerCase()
-);
+/*
+  Switch Challenge
+*/
+
+let job = "Manager";
+let salary = 0;
+
+switch (job) {
+  case "Manager":
+    salary = 8000;
+    break;
+  case "IT":
+  case "Support":
+    salary = 6000;
+    break;
+  case "Developer":
+  case "Designer":
+    salary = 7000;
+    break;
+  default:
+    salary = 4000;
+}
+console.log(salary);
+
+/*
+  If Challenge
+*/
+
+let holidays = 0;
+let money = 0;
+
+if (holidays === 0) {
+  money = 5000;
+  console.log(`My Money is ${money}`);
+} else if (holidays === 1 || holidays === 2) {
+  money = 3000;
+  console.log(`My Money is ${money}`);
+} else if (holidays === 3) {
+  money = 2000;
+  console.log(`My Money is ${money}`);
+} else if (holidays === 4) {
+  money = 1000;
+  console.log(`My Money is ${money}`);
+} else if (holidays === 5) {
+  money = 0;
+  console.log(`My Money is ${money}`);
+} else {
+  money = 0;
+  console.log(`My Money is ${money}`);
+}
