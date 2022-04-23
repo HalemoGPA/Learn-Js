@@ -1,6 +1,6 @@
 
-
-<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv" target="_blank" >
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/Learn-Js" alt="HalemoGPA">
+<a href="https://www.youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv" target="_blank"  >
 <div align="center">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/250px-Unofficial_JavaScript_logo_2.svg.png" width="230" alt="Javascript" style="border-radius:30px;"></div><div align="center">
         <h1 style="color:#20C0E0">Js course</h1>
