@@ -1,29 +1,32 @@
-/*
-  Loop Challenge
-*/
-
-let myAdmins = ["Ahmed", "Osama", "Sayed", "Stop", "Samera"];
-let myEmployees = [
-  "Amgad",
-  "Samah",
-  "Ameer",
-  "Omar",
-  "Othman",
-  "Amany",
-  "Samia",
-];
-
-let end = myAdmins.indexOf("Stop");
-myAdmins.splice(end, myAdmins.length - end);
-document.write(`<div>We have ${myAdmins.length} Admins</div><hr>`);
-for (let i = 0; i < myAdmins.length; i++) {
-  let empiterator = 0;
-  document.write(`<div>The Admin for team ${i + 1} is ${myAdmins[i]}</div>`);
-  document.write(`<h2>Team Members : </h2>`);
-  for (let j = 0; j < myEmployees.length; j++)
-    if (myAdmins[i][0] === myEmployees[j][0]) {
-      document.write(`<div>- ${empiterator + 1} ${myEmployees[j]}</div>`);
-      empiterator++;
-    }
-  document.write("<hr>");
+function showDetails(a, b, c) {
+  let first = typeof a;
+  let second = typeof b;
+  let third = typeof c;
+  let arrange = [];
+  first == "string"
+    ? arrange.push(a)
+    : second == "string"
+    ? arrange.push(b)
+    : arrange.push(c);
+  first == "number"
+    ? arrange.push(a)
+    : second == "number"
+    ? arrange.push(b)
+    : arrange.push(c);
+  first == "boolean"
+    ? arrange.push(a)
+    : second == "boolean"
+    ? arrange.push(b)
+    : arrange.push(c);
+  arrange[2] == true
+    ? (arrange[2] = "Available")
+    : (arrange[2] = "Not Available");
+  console.log(
+    `Hello ${arrange[0]}, Your Age Is ${arrange[1]}, You are ${arrange[2]} For Hire`
+  );
 }
+
+showDetails("Osama", 38, true); // "Hello Osama, Your Age Is 38, You Are Available For Hire"
+showDetails(38, "Osama", true); // "Hello Osama, Your Age Is 38, You Are Available For Hire"
+showDetails(true, 38, "Osama"); // "Hello Osama, Your Age Is 38, You Are Available For Hire"
+showDetails(false, "Osama", 38); // "Hello Osama, Your Age Is 38, You Are Not Available For Hire"
