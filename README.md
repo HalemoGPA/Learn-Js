@@ -138,12 +138,12 @@ Elzero Web School Js Course Assignments Solutions 💻
 
 ## Week 1️⃣6️⃣
 #### [codes for week 16](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16)       
-[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment1)       
-[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment2)      
-[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment3)   
-[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment4)  
-[     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment5)  
-[     • Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week10/Assignment6)  
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment2)      
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment3)   
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment4)  
+[     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment5)  
+[     • Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week16/Assignment6)  
 
 
 
