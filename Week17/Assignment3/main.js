@@ -1,0 +1,15 @@
+let ourDiv = document.querySelector(".our-element");
+let ourP = document.querySelector("p");
+ourP.remove();
+let beforeDiv = document.createElement("div").cloneNode(true);
+beforeDiv.setAttribute("class", "start");
+beforeDiv.setAttribute("title", "Start Element");
+beforeDiv.setAttribute("data-value", "Start");
+beforeDiv.innerHTML = "Start";
+ourDiv.before(beforeDiv);
+let afterDiv = document.createElement("div").cloneNode(true);
+afterDiv.setAttribute("class", "end");
+afterDiv.setAttribute("title", "End Element");
+afterDiv.setAttribute("data-value", "End");
+afterDiv.innerHTML = "End";
+ourDiv.after(afterDiv);
