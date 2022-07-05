@@ -1,0 +1,28 @@
+body {
+  height: 5000px;
+  width: 5000px;
+}
+
+button {
+  border: none;
+  font-size: 1.6em;
+  font-weight: bold;
+  color: white;
+  background: #303030;
+  width: 100px;
+  height: 60px;
+  border-radius: 50px;
+  position: sticky;
+  top: 85%;
+  left: 80%;
+  cursor: pointer;
+  padding: 2px;
+  display: none;
+  transition: all .25s ease;
+}
+
+button:hover {
+  background: #000000;
+  box-shadow: 0 0 5px rgb(118, 118, 118);
+
+}
