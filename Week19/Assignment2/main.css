@@ -1,0 +1,39 @@
+* {
+  font-size: 1.1em;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+  width: 600px;
+  min-height: 400px;
+  height: fit-content;
+  background-color: #00d79e;
+  border-radius: 10px;
+  padding: 20px;
+  margin: auto;
+}
+
+input {
+  background-color: rgb(9, 24, 24);
+  width: 90%;
+  height: 40px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  padding: 5px;
+  color: white;
+}
+
+select {
+  width: 92%;
+  height: 50px;
+  border-radius: 5px;
+  border: none;
+  outline: none;
+  padding: 5px;
+
+}

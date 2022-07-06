@@ -1,28 +1,108 @@
-body {
-  height: 5000px;
-  width: 5000px;
+.container {
+  display: flex;
+  align-items: space-between;
+  flex-direction: column;
+  justify-content: space-between;
+  width: 600px;
+  height: fit-content;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
 }
 
-button {
-  border: none;
-  font-size: 1.6em;
-  font-weight: bold;
-  color: white;
-  background: #303030;
-  width: 100px;
+.form {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
   height: 60px;
-  border-radius: 50px;
-  position: sticky;
-  top: 85%;
-  left: 80%;
-  cursor: pointer;
-  padding: 2px;
-  display: none;
-  transition: all .25s ease;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #EEEEEE;
 }
 
-button:hover {
-  background: #000000;
-  box-shadow: 0 0 5px rgb(118, 118, 118);
+.input {
+  outline: none;
+  border: none;
+  width: 50%;
+  height: 50%;
+  border-radius: 10px;
+}
+
+.add {
+  outline: none;
+  border: none;
+  width: 20%;
+  height: 50%;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  background-color: orangered;
+  cursor: pointer;
+  transition: .2s ease;
+}
+
+.add:active {
+  transform: scale(.96);
+}
+
+.input:focus {
+  transform: scale(1.08);
+  margin: 0 0 0 10px;
+  padding-left: 5px;
+}
+
+.tasks {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  width: 100%;
+  min-height: 60px;
+  height: fit-content;
+  padding: 20px;
+  background-color: #f2f2f2;
+  border-radius: 10px;
+  margin: 50px auto;
+}
+
+.task {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 90%;
+  height: 60px;
+  padding: 20px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  margin: 10px auto;
+}
+
+.delete {
+  outline: none;
+  border: none;
+  width: 15%;
+  height: 50%;
+  text-align: center;
+  border-radius: 10px;
+  color: white;
+  padding: 10px;
+  background-color: red;
+  cursor: pointer;
+  transition: .2s ease;
+}
+
+.delete:active {
+  transform: scale(.96);
+}
+
+.task p {
+  margin: 0;
+  padding: 0;
+  font-size: 1.4em;
+  font-family: Arial, Helvetica, sans-serif;
 
 }
