@@ -162,6 +162,12 @@ Elzero Web School Js Course Assignments Solutions 💻
 [     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week18/Assignment5)  
 
 
+## Week 1️⃣9️⃣
+#### [codes for week 19](https://github.com/HalemoGPA/Learn-Js/tree/main/Week19)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week19/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week19/Assignment2)      
+
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
