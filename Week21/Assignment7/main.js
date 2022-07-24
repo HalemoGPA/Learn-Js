@@ -1,0 +1,14 @@
+let numsOne = [1, 2, 3];
+let numsTwo = [4, 5, 6];
+let temp = numsOne.concat();
+let temp2 = numsTwo.concat();
+let all1 = [...numsOne, ...numsTwo];
+let all2 = numsOne.concat(numsTwo);
+let all3 = numsOne.concat(...numsTwo);
+temp.push(...numsTwo);
+console.log(temp);
+temp2.unshift(...numsOne);
+console.log(temp2);
+console.log(all1);
+console.log(all2);
+console.log(all3);
