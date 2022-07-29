@@ -191,6 +191,27 @@ Elzero Web School Js Course Assignments Solutions 💻
 [     • Assignment 8](https://github.com/HalemoGPA/Learn-Js/tree/main/Week21/Assignment8)  
 
 
+## Week 2️⃣2️⃣
+#### [codes for week 22](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment2)    
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment3)   
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment4)  
+[     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment5)  
+[     • Assignment 6](https://github.com/HalemoGPA/Learn-Js/tree/main/Week22/Assignment6)  
+
+
+
+
+## Week 2️⃣3️⃣
+#### [codes for week 23](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment2)   
+[     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment3)   
+[     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment4)  
+[     • Assignment 5](https://github.com/HalemoGPA/Learn-Js/tree/main/Week23/Assignment5)  
+
+
 <br><div align="center">
 
   <a href="https://www.buymeacoffee.com/HalemoGPA" ><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="HalemoGPA buy me a coffee" width="230"></a>
