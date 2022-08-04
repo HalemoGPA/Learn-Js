@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "author": "John Doe",
+    "category": "JavaScript",
+    "title": "JavaScript: The Good Parts",
+    "description": "The good parts of JavaScript"
+  },
+  {
+    "id": 2,
+    "author": "Jane Doe",
+    "category": "JavaScript",
+    "title": "JavaScript: The Bad Parts",
+    "description": "The bad parts of JavaScript"
+  },
+  {
+    "id": 3,
+    "author": "Robert Kowalski",
+    "category": "Business",
+    "title": "The rich father and the poor father",
+    "description": "The rich father and the poor father"
+  },
+  {
+    "id": 4,
+    "author": "Al Sweigart",
+    "category": "Python",
+    "title": "Automate the Boring Stuff with Python",
+    "description": "Automate the boring stuff with Python 'Practical Programming For Beginners'"
+  },
+  {
+    "id": 5,
+    "author": "Jaime Buelta",
+    "category": "Python",
+    "title": "Python Automation Cookbook:",
+    "description": "Python Automation Cookbook: 75 Python automation ideas for web scraping, data wrangling, and processing Excel, reports, emails, and more, 2nd Edition"
+  }
+]
