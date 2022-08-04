@@ -1,6 +1,12 @@
-let dateNow = new Date();
-console.log(dateNow);
-console.log("#".repeat(66));
+let a = 10;
+let arr = [1, 2, 3, 4];
 
-dateNow.setMonth(1, 2);
-console.log(dateNow);
+function saySomething() {
+  return `Something`;
+}
+
+export { a as myNum, arr, saySomething };
+
+export default function () {
+  return `Hello`;
+}
