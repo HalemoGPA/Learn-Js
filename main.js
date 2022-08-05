@@ -1,14 +1,19 @@
-let myRequest = new XMLHttpRequest();
-myRequest.open("GET", "https://api.github.com/users/HalemoGPA/repos", true);
-myRequest.send();
-myRequest.onreadystatechange = function () {
-  if (this.readyState == 4 && this.status == 200) {
-    let jsData = JSON.parse(this.responseText);
-    for (let i = 0; i < jsData.length; i++) {
-      let div = document.createElement("div");
-      let repoName = document.createTextNode(jsData[i]["full_name"]);
-      div.append(repoName);
-      document.body.append(div);
-    }
+const myPromise = new Promise((res, rej) => {
+  setTimeout(() => {
+    res("I am the good promise");
+  }, 3000);
+});
+
+async function fetchData() {
+  console.log("Before Fetch");
+  try {
+    let myData = await fetch("https://api.github.com/users/HalemoGPA/repos");
+    console.log(await myData.json());
+  } catch (reason) {
+    console.log(reason);
+  } finally {
+    console.log("After Fetch");
   }
-};
+}
+
+fetchData();
