@@ -11,8 +11,13 @@
 
 
 
-# Learn Js 🔥
-Elzero Web School Js Course Assignments Solutions 💻    
+# Learn Js 🔥     
+<div align="center">
+	<img src="https://www.onlygfx.com/wp-content/uploads/2018/04/completed-stamp-4-1024x791.png" width="200">
+	<br><br>
+	<p>Elzero Web School Js Course Assignments Solutions 💻</p>
+</div>	   
+   
 ## 1️⃣ Introduction      
 #### [codes for lessons from [001] to [009]](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1)  
 [     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week1/assignment%201)    
@@ -229,6 +234,12 @@ Elzero Web School Js Course Assignments Solutions 💻
 [     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment2)      
 [     • Assignment 3](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment3)   
 [     • Assignment 4](https://github.com/HalemoGPA/Learn-Js/tree/main/Week25/Assignment4)         
+
+
+## 2️⃣6️⃣ Promises
+#### [codes for lessons from [179] to [188]](https://github.com/HalemoGPA/Learn-Js/tree/main/Week26)       
+[     • Assignment 1](https://github.com/HalemoGPA/Learn-Js/tree/main/Week26/Assignment1)       
+[     • Assignment 2](https://github.com/HalemoGPA/Learn-Js/tree/main/Week26/Assignment2)      
 
 
 
